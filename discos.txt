@@ -1,4 +1,9 @@
 
+disco 1
+disco 2
+disco 3
+
+
 The Wall, Pink Floyd
 Coyote Stories, Crane Wives
 Changes, King Gizzard and the Lizard Wizard
@@ -21,6 +26,7 @@ Froggever
 freesbe
 disco duro
 disco de lanzamiento
+
 
 
 
