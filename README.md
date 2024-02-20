@@ -1,5 +1,7 @@
 
 # practicaFork6J
+Jose Escobosa Soto
+
 Aspen Carsí
 
 Dingo Navarro Lluna
